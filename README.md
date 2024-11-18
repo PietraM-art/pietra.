@@ -1,0 +1,2 @@
+# pietra.
+atividade pensamento computacional
